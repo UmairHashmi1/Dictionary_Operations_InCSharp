@@ -1,0 +1,8 @@
+D:\Practice\Dictionary_Operations\Dictionary_Operations\bin\Debug\Dictionary_Operations.exe.config
+D:\Practice\Dictionary_Operations\Dictionary_Operations\bin\Debug\Dictionary_Operations.exe
+D:\Practice\Dictionary_Operations\Dictionary_Operations\bin\Debug\Dictionary_Operations.pdb
+D:\Practice\Dictionary_Operations\Dictionary_Operations\obj\Debug\Dictionary_Operations.csproj.AssemblyReference.cache
+D:\Practice\Dictionary_Operations\Dictionary_Operations\obj\Debug\Dictionary_Operations.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Dictionary_Operations\Dictionary_Operations\obj\Debug\Dictionary_Operations.csproj.CoreCompileInputs.cache
+D:\Practice\Dictionary_Operations\Dictionary_Operations\obj\Debug\Dictionary_Operations.exe
+D:\Practice\Dictionary_Operations\Dictionary_Operations\obj\Debug\Dictionary_Operations.pdb
